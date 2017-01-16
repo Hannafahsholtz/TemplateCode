@@ -1,0 +1,5 @@
+How do autocrats manipulate the beliefs of their citizens during political crises? We argue that they cultivate a reputation for neutrality so that, during moments of crisis, their pro-regime arguments have some measure of credibility. To test the argument, we employ a corpus of 24 state-affiliated newspapers from Africa and Asia. Using a differences-in-differences estimation strategy, we find that propaganda in autocracies is generally indistinguishable from state-affiliated newspapers in democracies, save for the 15 days prior to an election, when positive coverage of the autocrat and the ruling party triples. This increase, we show, is driven not by more effusive articles, but an increase in the share of articles about the regime. Consequently, the aggregate volume of pro-regime coverage increases, but the per article positive coverage does not. By contrast, autocratic propaganda generally avoids defaming the opposition. State-affiliated newspapers in democracies exhibit generally neutral coverage.
+
+Here is some text after a hard return.
+
+	Here is some text after a tab and a hard return.
